@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  *  WordProcessor processes a sentence and return all of its longest words.
- * 
+ * Reference: https://stackoverflow.com/questions/17342923/design-a-word-processor
  * 
  */
 public class WordProcessor {
